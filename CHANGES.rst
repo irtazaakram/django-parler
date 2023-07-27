@@ -5,7 +5,8 @@ Unreleased
 ----------
 
 * Add support for Django 4.1 & 4.2
-* Drop suppor for Django 2.2, 3.0, 3.1 7 4.0
+* Drop support for Django 2.2, 3.0, 3.1 & 4.0
+* Drop support for Python 3.6 & 3.7
 
 Changes in 2.3 (2021-11-18)
 ---------------------------
