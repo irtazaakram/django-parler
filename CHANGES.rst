@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Unreleased
+----------
+
+* Add support for Django 4.1 & 4.2
+* Drop suppor for Django 2.2, 3.0, 3.1 7 4.0
+
 Changes in 2.3 (2021-11-18)
 ---------------------------
 
